@@ -11,7 +11,7 @@ function Intro() {
             showCursor: true, 
             backDelay: 1500,
             backSpeed: 60,
-            strings: [' Web', ' Development' ] 
+            strings: [' Developer', ' Enthusiast', ' Web Developer' ] 
         });
     }, [])
     return (
@@ -23,9 +23,9 @@ function Intro() {
             </div>
             <div className="right">
                 <div className="wrapper">
-                    <h2>Hello There, I'm</h2>
-                    <h1>PCL Forge</h1>
-                    <h3>technical  
+                    <h2>Hello World, I'm</h2>
+                    <h1>Rupali Gupta</h1>
+                    <h3>Software  
                         <span ref = {textRef}>
                             
                         </span>
